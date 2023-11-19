@@ -4,6 +4,7 @@ package-lock.json
 
 # Typescript build directory
 build
+public
 
 # Environment variables, never commit this file
 .env
